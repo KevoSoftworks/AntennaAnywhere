@@ -1,0 +1,13 @@
+{
+  "name": "Antenna Anywhere",
+  "author": "KevoSoft",
+  "description": "Allow antennas to be placed anywhere! No more restrictions on which level antennas need to be placed, nor how close they can be together.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "12.01",
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/antenna-anywhere/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
